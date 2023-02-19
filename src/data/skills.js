@@ -21,4 +21,22 @@ export default [
   },
   {
     id: 5,
-    title: 'Mate
+    title: 'Material UI',
+    point: 8,
+  },
+  {
+    id: 6,
+    title: 'Node',
+    point: 8,
+  },
+  {
+    id: 7,
+    title: 'MongoDB',
+    point: 7,
+  },
+  {
+    id: 8,
+    title: 'Git',
+    point: 8,
+  }
+]
