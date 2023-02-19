@@ -43,3 +43,7 @@ class HomeSection extends React.Component {
         </div>
       </div>
     )
+  }
+}
+
+export default HomeSection;
